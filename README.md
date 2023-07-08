@@ -1,8 +1,3 @@
----
-language:
-- zh
----
-
 # MOSS声线vits模型（900 epochs）
 
 从电源《流浪地球1》和《流浪地球2》提取MOSS原声进行900epochs的vits微调训练后的预训练模型。
